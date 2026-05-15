@@ -50,6 +50,8 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 
 <p align="left">
   <a href="https://www.zynkr.ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Zynkr-zynkr.ai-86C4AC?style=for-the-badge&logoColor=white" alt="Zynkr" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/yao-jen-tu/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-yao--jen--tu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.youtube.com/@zynkr-ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-@zynkr--ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
   <a href="https://www.threads.com/@peter_career_hack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Threads-@peter__career__hack-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>&nbsp;
   <a href="https://www.facebook.com/peter.career.hack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-peter.career.hack-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="mailto:peter_tu@zynkr.ai"><img src="https://img.shields.io/badge/Email-peter__tu@zynkr.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
