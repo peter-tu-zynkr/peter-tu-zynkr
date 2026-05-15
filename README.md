@@ -36,12 +36,12 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 
 <p align="left">
   <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" title="Claude Code" width="36" height="36" /></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>&nbsp;
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" alt="Vercel" title="Vercel" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white&label=MCP" alt="Model Context Protocol" title="Model Context Protocol" height="36" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="36" height="36" /></a>&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="36" height="36" /></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" alt="Model Context Protocol" title="Model Context Protocol" width="36" height="36" /></a>
 </p>
 
 ---
@@ -54,10 +54,3 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
   <a href="https://www.facebook.com/peter.career.hack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-peter.career.hack-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="mailto:peter_tu@zynkr.ai"><img src="https://img.shields.io/badge/Email-peter__tu@zynkr.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-I teach and write in Mandarin Chinese (zh-TW) — if you came here from Threads or Facebook, welcome.
-
----
-
-> 我來自非技術背景，正在用 AI 把「想做的事」變成「做出來的東西」  
-> 如果你也是，歡迎一起
