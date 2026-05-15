@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-label="Peter Tu — For builders who didn't grow up coding">
+  <rect width="1280" height="400" fill="#F5F1E8"/>
+
+  <!-- Hairline divider, brand book style -->
+  <line x1="80" y1="60" x2="1200" y2="60" stroke="#0F0F0E" stroke-opacity="0.08" stroke-width="1"/>
+  <line x1="80" y1="340" x2="1200" y2="340" stroke="#0F0F0E" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Eyebrow -->
+  <text x="80" y="110" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#5FA48A" font-weight="600">PETER TU  ·  BUILT WITH AI</text>
+
+  <!-- English headline -->
+  <text x="80" y="178" font-family="Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700" fill="#0F0F0E">For builders who</text>
+  <text x="80" y="228" font-family="Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700" fill="#0F0F0E">didn't grow up <tspan fill="#5FA48A">coding</tspan>.</text>
+
+  <!-- Chinese subtitle -->
+  <text x="80" y="282" font-family="'PingFang TC', 'Noto Serif TC', 'Songti TC', 'Heiti TC', serif" font-size="28" font-weight="500" fill="#0F0F0E">為非工程背景的創造者而寫</text>
+
+  <!-- Supporting line -->
+  <text x="80" y="318" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" fill="#5C5C58">Founder of Zynkr  ·  AI educator  ·  Taiwan → Amsterdam</text>
+
+  <!-- Concentric Z motif (right side), from concentric-z-decision-hero.svg -->
+  <g transform="translate(880, 33) scale(0.34)">
+    <circle cx="490" cy="490" r="430" fill="none" stroke="#86C4AC" stroke-opacity="0.28" stroke-width="3"/>
+    <circle cx="490" cy="490" r="335" fill="none" stroke="#86C4AC" stroke-opacity="0.46" stroke-width="3"/>
+    <circle cx="490" cy="490" r="240" fill="none" stroke="#86C4AC" stroke-opacity="0.70" stroke-width="3"/>
+    <circle cx="490" cy="490" r="155" fill="none" stroke="#5FA48A" stroke-width="3"/>
+    <polyline points="408,408 572,408 408,572 572,572" fill="none" stroke="#0F0F0E" stroke-width="22" stroke-linecap="butt" stroke-linejoin="round"/>
+    <circle cx="490" cy="490" r="20" fill="#F26B1F"/>
+  </g>
+</svg>
