@@ -1,8 +1,10 @@
-# Peter Tu
+![Peter Tu — For builders who didn't grow up coding](./banner.svg)
 
-**AI educator and founder of [Zynkr](https://www.zynkr.ai)** — teaching non-engineers to build with Claude Code and modern AI tools.
+### Hi, I'm Peter — AI educator and founder of [Zynkr](https://www.zynkr.ai).
 
 I came to coding through teaching, not the other way around. Zynkr is how I share what works: a growing marketplace of 90+ Claude skills, vibe-coding curricula, and the agents I use to run my own content and business operations.
+
+> If you're a non-engineer trying to ship real things with AI, this profile is the playbook I'm building in public.
 
 Based in Amsterdam · originally from Taiwan
 
