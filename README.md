@@ -1,4 +1,4 @@
-![Peter Tu — For builders who didn't grow up coding](./banner.svg)
+![Peter Tu — For decisions that deserve better thinking.](./banner.svg)
 
 ### Hi, I'm Peter — AI educator and founder of [Zynkr](https://www.zynkr.ai).
 
@@ -34,18 +34,28 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 
 ## Tech I Use Daily
 
-Claude Code · Next.js · Supabase · Vercel · TypeScript · Python · MCP
+<p align="left">
+  <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" title="Claude Code" width="36" height="36" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" alt="Vercel" title="Vercel" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white&label=MCP" alt="Model Context Protocol" title="Model Context Protocol" height="36" /></a>
+</p>
 
 ---
 
-## Teaching & Writing
+## Connect
 
-I teach in Mandarin Chinese (zh-TW). If you want to follow what I'm learning and shipping:
+<p align="left">
+  <a href="https://www.zynkr.ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Zynkr-zynkr.ai-86C4AC?style=for-the-badge&logoColor=white" alt="Zynkr" /></a>&nbsp;
+  <a href="https://www.threads.com/@peter_career_hack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Threads-@peter__career__hack-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>&nbsp;
+  <a href="https://www.facebook.com/peter.career.hack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-peter.career.hack-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="mailto:peter_tu@zynkr.ai"><img src="https://img.shields.io/badge/Email-peter__tu@zynkr.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- Web — [zynkr.ai](https://www.zynkr.ai)
-- Threads — [@peter_career_hack](https://www.threads.com/@peter_career_hack)
-- Facebook — [peter.career.hack](https://www.facebook.com/peter.career.hack)
-- Email — peter_tu@zynkr.ai
+I teach and write in Mandarin Chinese (zh-TW) — if you came here from Threads or Facebook, welcome.
 
 ---
 
