@@ -50,10 +50,20 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 ### Code distribution across my active repos
 
 <p align="left">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="560" role="img" aria-label="Code distribution across my active Zynkr repos"><g><path d="M180,180 L180,40 A140,140 0 0,1 249.71,301.41 Z" fill="#FBF7F0" stroke="#2B2B28" stroke-width="2"><title>HTML — 41.7% · Static marketing site & marketplace pages (zynkr-website)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L249.71,301.41 A140,140 0 0,1 53.15,120.79 Z" fill="#5FA48A" stroke="#FBF7F0" stroke-width="2"><title>TypeScript — 40.2% · Next.js apps (zynkr-accounting, zynkr-crm) + skill ingest scripts</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L53.15,120.79 A140,140 0 0,1 103.53,62.72 Z" fill="#2B2B28" stroke="#FBF7F0" stroke-width="2"><title>CSS — 8.9% · Component styles for website + Next.js apps</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L103.53,62.72 A140,140 0 0,1 155.50,42.17 Z" fill="#3D3A36" stroke="#FBF7F0" stroke-width="2"><title>JavaScript — 6.4% · Vendored website scripts + zynkr-skill-idea</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L155.50,42.17 A140,140 0 0,1 171.21,40.28 Z" fill="#6F6B62" stroke="#FBF7F0" stroke-width="2"><title>Python — 1.8% · Skill ingestion pipeline (zynkr-skill-builder)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L171.21,40.28 A140,140 0 0,1 177.36,40.03 Z" fill="#2B2B28" stroke="#FBF7F0" stroke-width="2"><title>PLpgSQL — 0.7% · Supabase migrations (zynkr-accounting)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L177.36,40.03 A140,140 0 0,1 180,40 Z" fill="#F26B1F" stroke="#FBF7F0" stroke-width="2"><title>Shell — 0.3% · Build/deploy/utility scripts (zynkr-skill-builder)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path></g><g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#2B2B28"><g transform="translate(380,90)"><rect width="16" height="16" fill="#FBF7F0" stroke="#2B2B28" stroke-width="1.5"/><text x="26" y="13">HTML · 41.7%</text></g><g transform="translate(380,120)"><rect width="16" height="16" fill="#5FA48A"/><text x="26" y="13">TypeScript · 40.2%</text></g><g transform="translate(380,150)"><rect width="16" height="16" fill="#2B2B28"/><text x="26" y="13">CSS · 8.9%</text></g><g transform="translate(380,180)"><rect width="16" height="16" fill="#3D3A36"/><text x="26" y="13">JavaScript · 6.4%</text></g><g transform="translate(380,210)"><rect width="16" height="16" fill="#6F6B62"/><text x="26" y="13">Python · 1.8%</text></g><g transform="translate(380,240)"><rect width="16" height="16" fill="#2B2B28"/><text x="26" y="13">PLpgSQL · 0.7%</text></g><g transform="translate(380,270)"><rect width="16" height="16" fill="#F26B1F"/><text x="26" y="13">Shell · 0.3%</text></g></g></svg>
+  <img src="./code-distribution.svg" alt="Code distribution pie chart across Zynkr active repos" width="560" />
 </p>
 
-HTML + TypeScript split the work down the middle — the static marketing site and the Next.js apps. Python, PLpgSQL, and Shell are the glue (skill ingestion, Supabase migrations, utility scripts). Orange marks the smallest slice — the single decision dot the brand reserves.
+| Slice | % | What it covers |
+|---|---|---|
+| **HTML** | 41.7% | Static marketing site & marketplace pages (`zynkr-website`) |
+| **TypeScript** | 40.2% | Next.js apps (`zynkr-accounting`, `zynkr-crm`) + skill ingest scripts |
+| **CSS** | 8.9% | Component styles for website + Next.js apps |
+| **JavaScript** | 6.4% | Vendored website scripts + `zynkr-skill-idea` |
+| **Python** | 1.8% | Skill ingestion pipeline (`zynkr-skill-builder`) |
+| **PLpgSQL** | 0.7% | Supabase migrations (`zynkr-accounting`) |
+| **Shell** | 0.3% | Build/deploy/utility scripts (`zynkr-skill-builder`) |
+
+HTML + TypeScript split the work down the middle — the static marketing site and the Next.js apps. Python, PLpgSQL, and Shell are the glue. Orange marks the smallest slice — the single decision dot the brand reserves.
 
 ---
 
