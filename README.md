@@ -50,8 +50,9 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 ### Code distribution across my active repos
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"'Matrise Text Pro','Space Grotesk',Inter,sans-serif","pieTitleTextSize":"20px","pieTitleTextColor":"#0F0F0E","pieSectionTextColor":"#FBF7F0","pieSectionTextSize":"13px","pieLegendTextColor":"#2B2B28","pieLegendTextSize":"13px","pieOuterStrokeColor":"#FBF7F0","pieOuterStrokeWidth":"2px","pieStrokeColor":"#FBF7F0","pieStrokeWidth":"2px","pie1":"#5FA48A","pie2":"#2B2B28","pie3":"#86C4AC","pie4":"#3D3A36","pie5":"#6F6B62","pie6":"#DCEEE6","pie7":"#F26B1F"}}}%%
 pie showData
-    title Bytes of source across the 5 active Zynkr repos
+    title Code distribution across active repos
     "HTML" : 41.7
     "TypeScript" : 40.2
     "CSS" : 8.9
@@ -61,7 +62,7 @@ pie showData
     "Shell" : 0.3
 ```
 
-HTML + TypeScript are basically tied — the static marketing site and the Next.js apps split the work down the middle. Python, PLpgSQL, and Shell are the glue (skill ingestion, Supabase migrations, utility scripts).
+HTML + TypeScript split the work down the middle — the static marketing site and the Next.js apps. Python, PLpgSQL, and Shell are the glue (skill ingestion, Supabase migrations, utility scripts). Orange marks the smallest slice — the single decision dot the brand reserves.
 
 ---
 
