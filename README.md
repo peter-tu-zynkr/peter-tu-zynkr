@@ -49,18 +49,9 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 
 ### Code distribution across my active repos
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"fontFamily":"'Matrise Text Pro','Space Grotesk',Inter,sans-serif","pieTitleTextSize":"20px","pieTitleTextColor":"#0F0F0E","pieSectionTextColor":"#FBF7F0","pieSectionTextSize":"13px","pieLegendTextColor":"#2B2B28","pieLegendTextSize":"13px","pieOuterStrokeColor":"#FBF7F0","pieOuterStrokeWidth":"2px","pieStrokeColor":"#FBF7F0","pieStrokeWidth":"2px","pie1":"#5FA48A","pie2":"#2B2B28","pie3":"#86C4AC","pie4":"#3D3A36","pie5":"#6F6B62","pie6":"#DCEEE6","pie7":"#F26B1F"}}}%%
-pie showData
-    title Code distribution across active repos
-    "HTML" : 41.7
-    "TypeScript" : 40.2
-    "CSS" : 8.9
-    "JavaScript" : 6.4
-    "Python" : 1.8
-    "PLpgSQL" : 0.7
-    "Shell" : 0.3
-```
+<p align="left">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="560" role="img" aria-label="Code distribution across my active Zynkr repos"><g><path d="M180,180 L180,40 A140,140 0 0,1 249.71,301.41 Z" fill="#FBF7F0" stroke="#2B2B28" stroke-width="2"><title>HTML — 41.7% · Static marketing site & marketplace pages (zynkr-website)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L249.71,301.41 A140,140 0 0,1 53.15,120.79 Z" fill="#5FA48A" stroke="#FBF7F0" stroke-width="2"><title>TypeScript — 40.2% · Next.js apps (zynkr-accounting, zynkr-crm) + skill ingest scripts</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L53.15,120.79 A140,140 0 0,1 103.53,62.72 Z" fill="#2B2B28" stroke="#FBF7F0" stroke-width="2"><title>CSS — 8.9% · Component styles for website + Next.js apps</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L103.53,62.72 A140,140 0 0,1 155.50,42.17 Z" fill="#3D3A36" stroke="#FBF7F0" stroke-width="2"><title>JavaScript — 6.4% · Vendored website scripts + zynkr-skill-idea</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L155.50,42.17 A140,140 0 0,1 171.21,40.28 Z" fill="#6F6B62" stroke="#FBF7F0" stroke-width="2"><title>Python — 1.8% · Skill ingestion pipeline (zynkr-skill-builder)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L171.21,40.28 A140,140 0 0,1 177.36,40.03 Z" fill="#2B2B28" stroke="#FBF7F0" stroke-width="2"><title>PLpgSQL — 0.7% · Supabase migrations (zynkr-accounting)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path><path d="M180,180 L177.36,40.03 A140,140 0 0,1 180,40 Z" fill="#F26B1F" stroke="#FBF7F0" stroke-width="2"><title>Shell — 0.3% · Build/deploy/utility scripts (zynkr-skill-builder)</title><set attributeName="stroke-width" to="5" begin="mouseover" end="mouseout"/></path></g><g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#2B2B28"><g transform="translate(380,90)"><rect width="16" height="16" fill="#FBF7F0" stroke="#2B2B28" stroke-width="1.5"/><text x="26" y="13">HTML · 41.7%</text></g><g transform="translate(380,120)"><rect width="16" height="16" fill="#5FA48A"/><text x="26" y="13">TypeScript · 40.2%</text></g><g transform="translate(380,150)"><rect width="16" height="16" fill="#2B2B28"/><text x="26" y="13">CSS · 8.9%</text></g><g transform="translate(380,180)"><rect width="16" height="16" fill="#3D3A36"/><text x="26" y="13">JavaScript · 6.4%</text></g><g transform="translate(380,210)"><rect width="16" height="16" fill="#6F6B62"/><text x="26" y="13">Python · 1.8%</text></g><g transform="translate(380,240)"><rect width="16" height="16" fill="#2B2B28"/><text x="26" y="13">PLpgSQL · 0.7%</text></g><g transform="translate(380,270)"><rect width="16" height="16" fill="#F26B1F"/><text x="26" y="13">Shell · 0.3%</text></g></g></svg>
+</p>
 
 HTML + TypeScript split the work down the middle — the static marketing site and the Next.js apps. Python, PLpgSQL, and Shell are the glue (skill ingestion, Supabase migrations, utility scripts). Orange marks the smallest slice — the single decision dot the brand reserves.
 
