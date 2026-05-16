@@ -50,7 +50,6 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 ### Code distribution across my active repos
 
 <p align="left">
-  <img src="./code-distribution.svg" alt="Code distribution pie chart across Zynkr active repos" width="560" />
 </p>
 
 | Slice | % | What it covers |
