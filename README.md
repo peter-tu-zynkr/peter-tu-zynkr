@@ -40,9 +40,28 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="36" height="36" /></a>&nbsp;
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" width="36" height="36" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="36" height="36" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css/663399" alt="CSS" title="CSS" width="36" height="36" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" alt="Model Context Protocol" title="Model Context Protocol" width="36" height="36" /></a>
 </p>
+
+### Code distribution across my active repos
+
+```mermaid
+pie showData
+    title Bytes of source across the 5 active Zynkr repos
+    "HTML" : 41.7
+    "TypeScript" : 40.2
+    "CSS" : 8.9
+    "JavaScript" : 6.4
+    "Python" : 1.8
+    "PLpgSQL" : 0.7
+    "Shell" : 0.3
+```
+
+HTML + TypeScript are basically tied — the static marketing site and the Next.js apps split the work down the middle. Python, PLpgSQL, and Shell are the glue (skill ingestion, Supabase migrations, utility scripts).
 
 ---
 
