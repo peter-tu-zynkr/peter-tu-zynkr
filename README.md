@@ -54,15 +54,15 @@ The notes I keep as I learn: Claude Code, MCP, Git, Supabase, Vercel, and the re
 
 | Slice | % | What it covers |
 |---|---|---|
-| **TypeScript** | 53.6% | Next.js apps (`zynkr-accounting`, `zynkr-crm`) + skill ingest scripts |
-| **HTML** | 30.7% | Static marketing site & marketplace pages (`zynkr-website`) |
-| **CSS** | 6.5% | Component styles for website + Next.js apps |
-| **JavaScript** | 6.4% | Vendored website scripts + `zynkr-skill-idea` |
-| **Python** | 2.1% | Skill ingestion pipeline (`zynkr-skill-builder`) |
-| **PLpgSQL** | 0.5% | Supabase migrations (`zynkr-accounting`) |
+| **TypeScript** | 57.3% | Next.js apps (`zynkr-accounting`, `zynkr-crm`, `zynkr-cms`) + skill ingest scripts |
+| **HTML** | 27.8% | Static marketing site & marketplace pages (`zynkr-website`) |
+| **CSS** | 6.1% | Component styles for website + Next.js apps |
+| **JavaScript** | 5.8% | Vendored website scripts + `zynkr-skill-idea` |
+| **Python** | 1.9% | Skill ingestion pipeline (`zynkr-skill-builder`) |
+| **PLpgSQL** | 0.8% | Supabase migrations (`zynkr-accounting`, `zynkr-cms`) |
 | **Shell** | 0.2% | Build/deploy/utility scripts (`zynkr-skill-builder`) |
 
-TypeScript now leads — the Next.js apps (`zynkr-accounting`, `zynkr-crm`) outgrew the static marketing site. HTML is still a close second. Python, PLpgSQL, and Shell are the glue. Orange marks the smallest slice — the single decision dot the brand reserves.
+TypeScript now leads — the Next.js apps (`zynkr-accounting`, `zynkr-crm`, `zynkr-cms`) outgrew the static marketing site. HTML is still a strong second. Python, PLpgSQL, and Shell are the glue. Orange marks the smallest slice — the single decision dot the brand reserves.
 
 ---
 
