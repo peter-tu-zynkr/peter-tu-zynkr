@@ -15,8 +15,8 @@ Based in Amsterdam · originally from Taiwan
 ### [Zynkr](https://www.zynkr.ai) — AI Skills Marketplace
 Browsable directory of 90+ Claude skills for course students. Stack: Next.js + Supabase + Vercel.
 
-### [zynkr-skill-builder](https://github.com/peter-tu-zynkr/zynkr-skill-builder)
-Source of truth and ingest pipeline behind zynkr.ai/ai-skills-marketplace. SKILL.md authoring → CI → Supabase mirror → live site.
+### [zynkr-ai-skills](https://github.com/peter-tu-zynkr/zynkr-ai-skills)
+The public shelf of Zynkr's Claude skills. Install any of them with `npx skills add https://github.com/peter-tu-zynkr/zynkr-ai-skills --skill <name>`.
 
 ### [writing-agent](https://github.com/peter-tu-zynkr/writing-agent)
 A 7-agent Claude Code pipeline that takes an article from idea → draft → edit → titles → CTA. Powers Zynkr's content team.
